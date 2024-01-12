@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-body);
+    color: var(--color-primary);
+}
+
+:root {
+    --bg-body: #131313;
+    --color-primary: #FFFFFF;
+    --bg-footer: #171717;
+
+    /* Footer */
+    --fontSize-footer: 0.80rem;
+    --colorFontTitle: #B2B2B2;
+
+    /* Fonts */
+    --font-Nunito: 'Nunito Sans', sans-serif;
+}
